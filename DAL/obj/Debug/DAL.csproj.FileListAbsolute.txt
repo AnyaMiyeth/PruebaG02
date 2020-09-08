@@ -1,0 +1,9 @@
+C:\Users\LENOVO\source\repos\2020-I\PulsacionConsola\G1\PulsacionCapas\DAL\bin\Debug\DAL.dll
+C:\Users\LENOVO\source\repos\2020-I\PulsacionConsola\G1\PulsacionCapas\DAL\bin\Debug\DAL.pdb
+C:\Users\LENOVO\source\repos\2020-I\PulsacionConsola\G1\PulsacionCapas\DAL\bin\Debug\Entity.dll
+C:\Users\LENOVO\source\repos\2020-I\PulsacionConsola\G1\PulsacionCapas\DAL\bin\Debug\Entity.pdb
+C:\Users\LENOVO\source\repos\2020-I\PulsacionConsola\G1\PulsacionCapas\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\2020-I\PulsacionConsola\G1\PulsacionCapas\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\2020-I\PulsacionConsola\G1\PulsacionCapas\DAL\obj\Debug\DAL.dll
+C:\Users\LENOVO\source\repos\2020-I\PulsacionConsola\G1\PulsacionCapas\DAL\obj\Debug\DAL.pdb
+C:\Users\LENOVO\source\repos\2020-I\PulsacionConsola\G1\PulsacionCapas\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache

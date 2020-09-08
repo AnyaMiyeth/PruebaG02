@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\2020-I\PulsacionConsola\G1\PulsacionCapas\BLL\bin\Debug\BLL.dll
+C:\Users\LENOVO\source\repos\2020-I\PulsacionConsola\G1\PulsacionCapas\BLL\bin\Debug\BLL.pdb
+C:\Users\LENOVO\source\repos\2020-I\PulsacionConsola\G1\PulsacionCapas\BLL\bin\Debug\DAL.dll
+C:\Users\LENOVO\source\repos\2020-I\PulsacionConsola\G1\PulsacionCapas\BLL\bin\Debug\Entity.dll
+C:\Users\LENOVO\source\repos\2020-I\PulsacionConsola\G1\PulsacionCapas\BLL\bin\Debug\DAL.pdb
+C:\Users\LENOVO\source\repos\2020-I\PulsacionConsola\G1\PulsacionCapas\BLL\bin\Debug\Entity.pdb
+C:\Users\LENOVO\source\repos\2020-I\PulsacionConsola\G1\PulsacionCapas\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\2020-I\PulsacionConsola\G1\PulsacionCapas\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\2020-I\PulsacionConsola\G1\PulsacionCapas\BLL\obj\Debug\BLL.dll
+C:\Users\LENOVO\source\repos\2020-I\PulsacionConsola\G1\PulsacionCapas\BLL\obj\Debug\BLL.pdb
+C:\Users\LENOVO\source\repos\2020-I\PulsacionConsola\G1\PulsacionCapas\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
